@@ -37,3 +37,5 @@
 <li> input = 6x6x20</li>
 <li> output = 720x1</li>
 
+<h1> Opeing the File </h1>
+1. Open CNN Image Classifier Folder
